@@ -17,7 +17,7 @@ This is a simple Pac-Man game implemented using Python and Pygame. The game incl
 2. Navigate to the directory containing the game files.
 3. Run the game by executing:
    ```
-   python pacman_game.py
+   python main.py
    ```
 
 ## Controls
@@ -27,7 +27,7 @@ This is a simple Pac-Man game implemented using Python and Pygame. The game incl
 
 ## Game Features
 
-- Playable Pac-Man character with chomping animation
+- Playable Pac-Man character
 - Enemies (ghosts) with different behaviors (chase, ambush, patrol)
 - Collectible dots and power-up dots
 - Maze layout with walls
